@@ -6,4 +6,4 @@
 
 ## Sofwares utilizados:
 
-Vs Code
+- Vs Code
