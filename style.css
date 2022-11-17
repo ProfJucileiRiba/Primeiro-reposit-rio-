@@ -1,4 +1,16 @@
 body {
-    text-align: center;
-    background-color: #B0E0E6 ;
+    margin-top: 05%;
+    background-color: #B0E0E6;
+    margin-left: 05%;
+    margin-right: 05%;
+    font-family: Arial, Helvetica, sans- serif
+}
+
+p {
+    text-align: justify;
+    
+}
+
+em strong {
+    color: #080808;
 }
