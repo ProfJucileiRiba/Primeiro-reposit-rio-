@@ -35,6 +35,22 @@ h1{
     font-size: 30px; 
     text-align: justify;  
 }
-.imagem 1{
-    
+.imagem1{
+    display: inline-block;  
+    height: 50%;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 02%;
+    text-align: left;
+}
+
+.item {
+    text-align: justify;
+    font-size: 18px;
+    color: #050808;
+    display: inline-block;  
+    height: 5%;
+    width: 5%;
+    margin-left: 5%;
+    margin-right: 1%;
 }
